@@ -16,5 +16,5 @@ Original dataset is [here at **Kaggle**](https://www.kaggle.com/crowdflower/twit
 However, if you need map service in dashboard, use my data with lattitude (or lat).
 
 # Running
-In **powershell**:
+In **powershell**:<br>
 _streamlit run dashboard.py_
